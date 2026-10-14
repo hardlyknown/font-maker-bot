@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, InlineQ
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, ContextTypes, filters, InlineQueryHandler
 import uuid
 
-BOT_TOKEN = "8205845727:AAHlggh1CNUesoTSd6NIEkUx98IgRRk9cmk"
+BOT_TOKEN = "YOUR_BOT_TOKEN"
 
 # Small caps font map
 FONT_MAP = {
